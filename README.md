@@ -12,7 +12,7 @@ Mira la siguiente imagen y crea una página con las mismas características, se 
 
 ## Desarrollo en PHP
 
-Creemos que eres idóneo para crear plugins y temas de WordPress desde ceros, así que esperamos que crees un plugin que sea administrable a través de la ventana de administración (wp-admin) y pueda ser mostrado con un shortcode (*do_shortcode*) en la página. Te adjuntamos una imagen para que ves lo que esperamos
+Creemos que eres idóneo para crear plugins y temas de WordPress desde ceros, así que esperamos que crees un plugin que sea administrable a través de la ventana de administración (wp-admin) y pueda ser mostrado con un shortcode (*do_shortcode*) en la página. Te adjuntamos una imagen para que veas lo que esperamos
 
 ### Vista Plugin
 
