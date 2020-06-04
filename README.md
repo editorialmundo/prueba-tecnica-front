@@ -4,7 +4,7 @@ Hola, la siguiente prueba es para conocer tus aptitudes y experiencia en desarro
 
 ## Maquetación
 
-Mira la siguiente imagen y crea una página con las mismas características, se tendrá en cuenta tu creatividad la generar también su versión responsive. 
+Mira la siguiente imagen y crea una página con las mismas características, se tendrá en cuenta tu creatividad la generar también su versión responsive. (Usa HTML, CSS, es posible utilizar Bootstrap)
 
 ### Landing Base
 
